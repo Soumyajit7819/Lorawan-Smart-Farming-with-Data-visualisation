@@ -20,3 +20,16 @@ In this project we have used BMP280 for temperature, pressure and altitude monit
 Here we have used Adafruit IO to get information from lora gateway and create our own dashboard.
 
 ![dashboard](Images/Screenshot.png)
+
+## Advanced Prototype Implementation
+### Full Stack Implementation Using Web Development and PCB Design
+
+![dashboard](Images/LoraFarm.png)
+
+## Conference Paper
+### Abstract
+
+The Internet of Things (IoT) is omnipresent, also in the farming domain, and plays a vital role in the life of everyone. As the population increases over the forthcoming decade, food production will have to shoot up. Smart Farming or agriculture is one of all the methodologies that one can adopt. The applications embrace intelligent monitoring, sensing, irrigation systems, fertilization systems, etc. The objective is to get farmer-friendly, inexpensive, compatible, low power consumption, and significantly a long-range wide area network (LoRaWAN) platform-LoRaWAN based IoT intelligent farming systems. The creative use of LoRaWAN technology can make intelligent agricultural systems efficient, economical, durable, energy-saving, and adaptable has been discussed in this article. This paper aims to provide overall architecture with the help of LoRaWAN and how this system would be helpful over some of the systems presently used.
+
+https://doi.org/10.1109/ICONAT53423.2022.9725941
+
